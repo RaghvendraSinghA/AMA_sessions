@@ -86,7 +86,7 @@
     Ans --> list is dynamic in size and array is of fixed size.     
             Array can have values only of same data-type and list     
             can have values of any data-type.     
-            list are slower than array because of internal implementation.    
+            list is slower than array because of internal implementation.    
 
 #### Q13 - What is the difference between an application and a service?
     Ans --> An application is a program designed to perform tasks for a user.
@@ -97,4 +97,4 @@
             A service is a program or process that usually runs in the background and provides    
             functionality to other applications or the operating system.     
             It doesn't have graphical user Interface(GUI).    
-            Examples: Database service (postgresql), Web server (nginx)
+            Examples: ssh-client, cron jobs, Web server (nginx)
