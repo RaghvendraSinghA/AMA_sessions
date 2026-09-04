@@ -15,7 +15,7 @@
 
 ### Q: What is the purpose of the placeholder attribute?
       Ans: To show a hint inside a form input button, like example of what you     
-      should write inside input button.
+            should write inside input button.
 
 ### Q: Which SQL command deletes a database?
       Ans: DROP DATABASE database_name;`
