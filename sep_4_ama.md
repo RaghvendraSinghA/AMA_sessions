@@ -38,7 +38,7 @@
 
 ### Q: What is the difference between font-weight and font-size?
       Ans: font-weight controls thickness of text while font-size controls size    
-      of text.
+            of text.
 
 ### Q: What are the types of inheritance in OOP?
       Ans: Single, multiple, multilevel, hierarchical, and hybrid.
