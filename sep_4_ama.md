@@ -4,7 +4,7 @@
       Ans: To apply styles when the mouse hovers over an element.
 
 ### Q: If CSS contains one ID selector and five class selectors, which has the highest priority?
-      Ans: The ID selector, ID selectors css will be applied to element.
+      Ans: The ID selector, ID selector css will be applied to element.
 
 ### Q: What is normalization in databases?
       Ans: Organizing data to reduce redundancy and inconsistency. 
