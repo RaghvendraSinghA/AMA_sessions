@@ -47,11 +47,12 @@
   - It continues searching through the outer lexical environments until the variable is found or the global scope is reached.
 
 - What is an array in JavaScript?
-  - An array is an ordered collection of values of same data-type but, in javascript we have list
+  - An array is an ordered collection of values of same data-type and fixed-size but, in javascript we have list
     which is dynamic array, It can contain multiple-datatype inside it and its size can grow automatically.
   - It can contain multiple values of different data types.
-  - Array elements are accessed using indexes starting from `0`.
-  - Example: `["Apple", "Banana", "Mango"]`
+  - Array and list elements are accessed using indexes starting from `0`.
+  - Example of Array: `["Apple", "Banana", "Mango"]`, only elements of same data-type.
+  - Example of list: `["Apple", 1, {name:"xyz"}]`
 
 - What is the difference between `undefined` and `null`?
   - `undefined` usually means a variable has been declared but has not been assigned a value.
