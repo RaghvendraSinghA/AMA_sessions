@@ -48,7 +48,7 @@
 
 - What is an array in JavaScript?
   - An array is an ordered collection of values of same data-type but, in javascript we have list
-    which is dynamic array, It can contain multiple datatype inside it and its size can grow automatically.
+    which is dynamic array, It can contain multiple-datatype inside it and its size can grow automatically.
   - It can contain multiple values of different data types.
   - Array elements are accessed using indexes starting from `0`.
   - Example: `["Apple", "Banana", "Mango"]`
