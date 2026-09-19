@@ -67,9 +67,11 @@ and the original array is not modified.
 
 ---
 
-### 8. When do we use the finally block?
+### 8. When do we use the finally block?  
 
-The finally block contains code that must run regardless of whether an operation succeeded or failed. It is mainly used for cleanup.      
+The finally block contains code that must run regardless of whether an operation succeeded or failed. It is mainly used for cleanup.
+
+
 ---
 
 ### 9. How can we resolve multiple promises?
