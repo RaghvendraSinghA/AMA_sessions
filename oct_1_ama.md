@@ -21,7 +21,7 @@ async function getData() {
 
 Here, `await` waits for the `fetch()` operation to complete before moving to the next line and prints data.
 Now, await can be also used without async function in global scope but, if it is in function then, that function
-should be in async.
+should be async.
 
 ---
 
