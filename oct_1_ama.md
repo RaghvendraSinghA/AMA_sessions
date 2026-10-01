@@ -210,7 +210,7 @@ match.__dict__
 
 We inherit from `models.Model` because Django needs to know that our class is a Django model.
 Without inheriting from `models.Model`, Django would treat `User` as a normal    
-Python class rather than a Django database model.
+python class rather than a Django database model.
 
 Example:
 
@@ -279,5 +279,4 @@ Delivery 3     → deleted
 ```
 
 So `CASCADE` means:
-
-> Delete the related objects when the referenced object is deleted.
+ Delete the related objects when the referenced object is deleted.
