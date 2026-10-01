@@ -279,4 +279,4 @@ Delivery 3     → deleted
 ```
 
 So `CASCADE` means:
- Delete the related objects when the referenced object is deleted.
+ delete the related objects when the referenced object is deleted.
