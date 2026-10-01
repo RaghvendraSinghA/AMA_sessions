@@ -20,6 +20,7 @@ async function getData() {
 ```
 
 Here, `await` waits for the `fetch()` operation to complete before moving to the next line and prints data.
+Now, await can be also used outside of async function in code.
 
 ---
 
