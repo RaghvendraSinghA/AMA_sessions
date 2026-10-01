@@ -6,7 +6,7 @@
 
 - `async` makes a function return a Promise.
 - `await` pauses the execution inside an `async` function until the Promise is settled.
-- `await` makes asynchronous code easier to read and understand, Code looks like synchronous.
+- `await` makes asynchronous code easier to read and understand, code looks like synchronous.
 
 Example:
 
@@ -47,7 +47,7 @@ form.is_valid()
 ```
 
 A `ModelForm` can also be used to create or update database objects directly from a form.    
-We can also attach CSRF token inside it.
+We can also attach CSRF token inside form for security.
 
 ---
 
